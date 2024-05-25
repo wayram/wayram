@@ -14,5 +14,5 @@ Hello! I'm a self-taught Front and Back-end developer from Canada.
 </div>
 
 ### Where you'll find me
-[![Discord Presence](https://lanyard.cnrad.dev/api/761635564835045387)](https://discord.com/users/723922661570248756)
+[![Discord Presence](https://lanyard.cnrad.dev/api/723922661570248756)](https://discord.com/users/723922661570248756)
 ###
