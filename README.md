@@ -20,5 +20,3 @@ Hello! I'm a self-taught Front and Back-end developer from Canada.
 ### Where you'll find me
 [![Discord Presence](https://lanyard.cnrad.dev/api/723922661570248756)](https://discord.com/users/723922661570248756)
 ###
-
-![real-gang-shit](https://github.com/wayram/wayram/assets/108154600/d8c0fb9d-f19c-4f82-b16e-2241d7a388d7)
