@@ -13,4 +13,6 @@ Hello! I'm a self-taught Front and Back-end developer from Canada.
   <img width="12" />
 </div>
 
-[![DiscordBanner](https://invidget.switchblade.xyz/fz8QMYdVDq)]
+### Where you'll find me
+[![Discord Presence](https://lanyard.cnrad.dev/api/761635564835045387)](https://discord.com/users/723922661570248756)
+###
