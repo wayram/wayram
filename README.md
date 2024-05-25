@@ -1,6 +1,6 @@
 # About me | 👋
 
-![hey-girl](https://github.com/wayram/wayram/assets/108154600/34321520-6fec-42a7-9cc7-8b20156b9570)
+![real-gang-shit](https://github.com/wayram/wayram/assets/108154600/d8c0fb9d-f19c-4f82-b16e-2241d7a388d7)
 
 Hello! I'm a self-taught Front and Back-end developer from Canada.
 
