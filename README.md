@@ -12,3 +12,5 @@ Hello! I'm a self-taught Front and Back-end developer from Canada.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img width="12" />
 </div>
+
+[![DiscordBanner](https://invidget.switchblade.xyz/fz8QMYdVDq)]
