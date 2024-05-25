@@ -13,7 +13,9 @@ Hello! I'm a self-taught Front and Back-end developer from Canada.
   <img width="12" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NICK-FURY-6023&hide=TeX&layout=compact&theme=transparent&hide_border=false)
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayram&hide=TeX&layout=compact&theme=transparent&hide_border=false)
 
 ### Where you'll find me
 [![Discord Presence](https://lanyard.cnrad.dev/api/723922661570248756)](https://discord.com/users/723922661570248756)
