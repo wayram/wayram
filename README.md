@@ -1,6 +1,6 @@
 # About me | 👋
 
-Hello! I'm a self-taught Front and Back-end developer from Canada.
+Hello! I'm a self-taught Frontend developer from Canada.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -17,6 +17,5 @@ Hello! I'm a self-taught Front and Back-end developer from Canada.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayram&hide=TeX&layout=compact&theme=transparent&hide_border=false)
 
-### Where you'll find me
 [![Discord Presence](https://lanyard.cnrad.dev/api/723922661570248756)](https://discord.com/users/723922661570248756)
 ###
