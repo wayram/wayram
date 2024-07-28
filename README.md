@@ -15,7 +15,5 @@ Hello! I'm a self-taught Frontend developer from Canada.
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayram&hide=TeX&layout=compact&theme=transparent&hide_border=false)
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/723922661570248756)](https://discord.com/users/723922661570248756)
 ###
